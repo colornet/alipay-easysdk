@@ -1,12 +1,12 @@
 {
-	"name":"alipaysdk/easysdk",
-	"description":"支付宝官方 Alipay Easy SDK",
+	"name":"colornet/alieasysdk",
+	"description":"支付宝SDK",
 	"type":"library",
 	"version":"2.0.3",
 	"authors":[
 		{
-			"name":"junying.wjy",
-			"email":"junying.wjy@antfin.com"
+			"name":"78455666",
+			"email":"78455666@qq.com"
 		}
 	],
 	"autoload":{
